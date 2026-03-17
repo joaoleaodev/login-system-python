@@ -40,7 +40,6 @@ This project helped me practice:
 ## 🎥 Project Preview
 
 <br>
-
 <table align="center">
   <tr>
     <th>✅ First Try</th>
