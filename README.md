@@ -52,6 +52,7 @@ This project helped me practice:
     <td><img src="archives/login_block.gif" width="250"/></td>
   </tr>
 </table>
+<br>
 
 ## 📌 Future Improvements
 - Add username support
