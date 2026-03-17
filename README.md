@@ -1,11 +1,11 @@
 # 🔐 Login System - Python
 
-A simple and secure login system built with Python where the user must authenticate using a password.
+A simple and secure login system built with Python where users must authenticate using a password. Includes attempt limits and input validation.
 
 ## 🚀 Features
 
 - Hidden password input (getpass)
-- Maximum attempt limit (10 tries)
+- Maximum attempt limit (10 attempts)
 - Input validation (prevents empty input)
 - Secure login logic
 - User-friendly messages
@@ -26,14 +26,6 @@ cd login-system-python
 3. Run the program
 python login_system.py
 
-## 🎮 Game Rules
-
-- `r` = Rock  
-- `p` = Paper  
-- `s` = Scissors  
-
-First player to reach **2 points wins the game**.
-
 ## 📚 What I Learned
 
 This project helped me practice:
@@ -46,6 +38,15 @@ This project helped me practice:
 - Using external modules (`getpass`)
 
 ## 🎥 Project Preview
+
+### ✅ Correct password on first try
+![gif1](archives/login_correct.gif)
+
+### 🔁 Wrong password then correct
+![gif2](archives/login_error.gif)
+
+### 🔒 Account blocked
+![gif3](archives/login_block.gif)
 
 <p align="center">
   <img src="archives/login.gif" alt="Project Preview" width="100%">
