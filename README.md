@@ -52,6 +52,11 @@ This project helped me practice:
   <img src="archives/login.gif" alt="Project Preview" width="100%">
 </p>
 
+## 📌 Future Improvements
+- Add username support
+- Encrypt password
+- Store credentials in a file/database
+
 ## 👨‍💻 Author
 
 <table>
