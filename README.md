@@ -1,4 +1,4 @@
-# 🔐 Simple Login System - Python
+# 🔐 Login System - Python
 
 A simple and secure login system built with Python where users must authenticate using a password. Includes attempt limits and input validation.
 
